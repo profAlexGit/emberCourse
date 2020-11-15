@@ -18,7 +18,7 @@
 		},
 		{
 			"id": 2,
-			"authorId": 2,
+			"authorsId": 2,
 			"title": "Война и мир",
 			"pages": 1232,
 			"cover": "https://cv6.litres.ru/pub/c/elektronnaya-kniga/cover_120/25452564-lev-tolstoy-voyna-i-mir-tom-3-25452564.jpg",
@@ -28,7 +28,7 @@
 		},
 		{
 			"id": 3,
-			"authorId": 1,
+			"authorsId": 1,
 			"title": "99 франков",
 			"pages": 220,
 			"cover": "https://cv1.litres.ru/pub/c/elektronnaya-kniga/cover_415/118518--.jpg",
