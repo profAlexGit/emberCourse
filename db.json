@@ -8,7 +8,7 @@
 	"books": [
 		{
 			"id": 1,
-			"authorsId": 3,
+			"authorId": 3,
 			"title": "Мир и война",
 			"pages": 240,
 			"cover": "https://cv0.litres.ru/pub/c/elektronnaya-kniga/cover_185/57390006-boris-akunin-mir-i-voyna.jpg",
@@ -28,7 +28,7 @@
 		},
 		{
 			"id": 3,
-			"author": 1,
+			"authorId": 1,
 			"title": "99 франков",
 			"pages": 220,
 			"cover": "https://cv1.litres.ru/pub/c/elektronnaya-kniga/cover_415/118518--.jpg",
