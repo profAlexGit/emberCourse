@@ -36,7 +36,7 @@
 		"data": [
 			{
 				"id": 1,
-				"type": "books",
+				"type": "book",
 				"links": {
 					"self": "https://fierce-atoll-72104.herokuapp.com/books/1"
 				},
