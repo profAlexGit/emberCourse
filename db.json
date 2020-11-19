@@ -37,6 +37,9 @@
 			{
 				"id": 1,
 				"type": "book",
+				"links": {
+					"self": "https://fierce-atoll-72104.herokuapp.com/books/1"
+				},
 				"attributes": {
 					"title": "Peace and war",
 					"pages": 240,
