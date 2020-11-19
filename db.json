@@ -35,7 +35,7 @@
 	"books": {
 		"data": [
 			{
-				"type": "book",
+				"type": "books",
 				"id": "1",
 				"attributes": {
 					"title": "Peace and war",
