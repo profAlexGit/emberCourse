@@ -5,7 +5,8 @@
 				"id": "1",
 				"type": "author",
 				"attributes": {
-					"firstName": "Frederick", "lastName": "Begbeder"
+					"firstName": "Frederick",
+					"lastName": "Begbeder"
 				}
 			},
 
@@ -13,14 +14,16 @@
 				"id": "2",
 				"type": "author",
 				"attributes": {
-					"firstName": "Leo", "lastName": "Tolstoy"
+					"firstName": "Leo",
+					"lastName": "Tolstoy"
 				}
 			},
 			{
 				"id": "3",
 				"type": "author",
 				"attributes": {
-					"firstName": "Akunin", "lastName": "Boris"
+					"firstName": "Akunin",
+					"lastName": "Boris"
 				}
 			}
 		]
@@ -40,9 +43,11 @@
 					"raiting": 4.8
 				},
 				"relationships": {
-					"data": {
-						"type": "author",
-						"id": "3"
+					"author": {
+						"data": {
+							"type": "author",
+							"id": "3"
+						}
 					}
 				}
 			},
@@ -59,9 +64,11 @@
 					"raiting": 4.3
 				},
 				"relationships": {
-					"data": {
-						"type": "author",
-						"id": "2"
+					"author": {
+						"data": {
+							"type": "author",
+							"id": "2"
+						}
 					}
 				}
 			},
@@ -78,9 +85,11 @@
 					"raiting": 4.0
 				},
 				"relationships": {
-					"data": {
-						"type": "author",
-						"id": "1"
+					"author": {
+						"data": {
+							"type": "author",
+							"id": "1"
+						}
 					}
 				}
 			}
