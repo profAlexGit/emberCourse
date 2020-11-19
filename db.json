@@ -1,22 +1,21 @@
 {
 	"authors": [
 		{
-				"id": 1,
-				"firstName": "Frederick",
-				"lastName": "Begbeder"
-			},
-			{
-				"id": 2,
-				"firstName": "Leo",
-				"lastName": "Tolstoy"
-			},
-			{
-				"id": 3,
-				"firstName": "Akunin",
-				"lastName": "Boris"
-			}
-	]
-	},
+			"id": 1,
+			"firstName": "Frederick",
+			"lastName": "Begbeder"
+		},
+		{
+			"id": 2,
+			"firstName": "Leo",
+			"lastName": "Tolstoy"
+		},
+		{
+			"id": 3,
+			"firstName": "Akunin",
+			"lastName": "Boris"
+		}
+	],
 
 	"books": [
 		{
