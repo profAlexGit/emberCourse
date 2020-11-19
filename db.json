@@ -45,6 +45,9 @@
 					"tags": ["detective", "novel", "adventures"],
 					"raiting": 4.8
 				},
+				"links": {
+					"self": "https://fierce-atoll-72104.herokuapp.com/books/1"
+				},
 				"relationships": {
 					"author": {
 						"data": {
