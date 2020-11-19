@@ -35,8 +35,8 @@
 	"books": {
 		"data": [
 			{
-				"id": "1",
 				"type": "book",
+				"id": "1",
 				"attributes": {
 					"title": "Peace and war",
 					"pages": 240,
