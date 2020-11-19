@@ -1,108 +1,24 @@
 {
-	"authors": {
-		"data": [
-			{
+	"authors": [
+		{
 				"id": 1,
-				"type": "author",
-				"links": {
-					"self": "https://fierce-atoll-72104.herokuapp.com/authors/1"
-				},
-				"attributes": {
-					"firstName": "Frederick",
-					"lastName": "Begbeder"
-				}
+				"firstName": "Frederick",
+				"lastName": "Begbeder"
 			},
-
 			{
 				"id": 2,
-				"type": "author",
-				"attributes": {
-					"firstName": "Leo",
-					"lastName": "Tolstoy"
-				}
+				"firstName": "Leo",
+				"lastName": "Tolstoy"
 			},
 			{
 				"id": 3,
-				"type": "author",
-				"attributes": {
-					"firstName": "Akunin",
-					"lastName": "Boris"
-				}
+				"firstName": "Akunin",
+				"lastName": "Boris"
 			}
-		]
+	]
 	},
 
-	"books": {
-		"data": [
-			{
-				"type": "book",
-				"id": "1",
-				"attributes": {
-					"title": "Peace and war",
-					"pages": 240,
-					"cover": "https://cv0.litres.ru/pub/c/elektronnaya-kniga/cover_185/57390006-boris-akunin-mir-i-voyna.jpg",
-					"description": "Накануне войны 1812 года в деревне Вымиралово Московской области происходят страшные события: в окрестностях богатого помещичьего хозяйства обнаружены трупы молодых крестьянок с переломанными костями. Пожилая помещица Полина Афанасьевна Катина, уже знакомая читателю по роману «Доброключения и рассуждения Луция Катина», пытается своими силами обнаружить изверга-душегуба, однако ее расследование прерывает начавшаяся война с Наполеоном.",
-					"tags": ["detective", "novel", "adventures"],
-					"raiting": 4.8
-				},
-				"links": {
-					"self": "https://fierce-atoll-72104.herokuapp.com/books/1"
-				},
-				"relationships": {
-					"author": {
-						"data": {
-							"type": "author",
-							"id": "3"
-						}
-					}
-				}
-			},
-
-			{
-				"id": "2",
-				"type": "book",
-				"attributes": {
-					"title": "War and peace",
-					"pages": 1232,
-					"cover": "https://cv6.litres.ru/pub/c/elektronnaya-kniga/cover_120/25452564-lev-tolstoy-voyna-i-mir-tom-3-25452564.jpg",
-					"description": "«Война и мир» – одно из высших достижений художественного гения",
-					"tags": ["detective", "adventures"],
-					"raiting": 4.3
-				},
-				"relationships": {
-					"author": {
-						"data": {
-							"type": "author",
-							"id": "2"
-						}
-					}
-				}
-			},
-
-			{
-				"id": "3",
-				"type": "book",
-				"attributes": {
-					"title": "99 francs",
-					"pages": 220,
-					"cover": "https://cv1.litres.ru/pub/c/elektronnaya-kniga/cover_415/118518--.jpg",
-					"description": "Роман «99 франков» представляет собой злую сатиру на рекламный бизнес, безжалостно разоблачает этот безумный и полный превратностей мир, в котором все презирают друг друга и так бездарно растрачивается человеческий ресурс… Роман Бегбедера провокационен, написан в духе времени и весьма полемичен. Он стал настоящим событием литературного сезона, а его автор, уволенный накануне публикации из рекламного агентства, покинул мир рекламы, чтобы немедленно войти в мир бестселлеров.",
-					"tags": ["detective", "novel"],
-					"raiting": 4.0
-				},
-				"relationships": {
-					"author": {
-						"data": {
-							"type": "author",
-							"id": "1"
-						}
-					}
-				}
-			}
-		]
-	},
-
-	"newBooks": [
+	"books": [
 		{
 			"id": 1,
 			"authorsId": 3,
