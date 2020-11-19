@@ -4,6 +4,9 @@
 			{
 				"id": 1,
 				"type": "author",
+				"links": {
+					"self": "https://fierce-atoll-72104.herokuapp.com/authors/1"
+				},
 				"attributes": {
 					"firstName": "Frederick",
 					"lastName": "Begbeder"
