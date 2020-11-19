@@ -2,7 +2,7 @@
 	"authors": {
 		"data": [
 			{
-				"id": "1",
+				"id": 1,
 				"type": "author",
 				"attributes": {
 					"firstName": "Frederick",
@@ -11,7 +11,7 @@
 			},
 
 			{
-				"id": "2",
+				"id": 2,
 				"type": "author",
 				"attributes": {
 					"firstName": "Leo",
@@ -19,7 +19,7 @@
 				}
 			},
 			{
-				"id": "3",
+				"id": 3,
 				"type": "author",
 				"attributes": {
 					"firstName": "Akunin",
@@ -32,7 +32,7 @@
 	"books": {
 		"data": [
 			{
-				"id": "1",
+				"id": 1,
 				"type": "book",
 				"attributes": {
 					"title": "Peace and war",
@@ -53,7 +53,7 @@
 			},
 
 			{
-				"id": "2",
+				"id": 2,
 				"type": "book",
 				"attributes": {
 					"title": "War and peace",
@@ -74,7 +74,7 @@
 			},
 
 			{
-				"id": "3",
+				"id": 3,
 				"type": "book",
 				"attributes": {
 					"title": "99 francs",
