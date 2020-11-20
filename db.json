@@ -62,6 +62,11 @@
 			"id": 1,
 			"date": "21/11/20",
 			"status": "active"
+		},
+		{
+			"id": 2,
+			"date": "21/10/20",
+			"status": "complete"
 		}
 	],
 
@@ -71,6 +76,13 @@
 			"speakerId": 1,
 			"meetingId": 1,
 			"status": "validation",
+			"bookId": 1
+		},
+		{
+			"id": 1,
+			"speakerId": 1,
+			"meetingId": 1,
+			"status": "complete",
 			"bookId": 1
 		}
 	]
