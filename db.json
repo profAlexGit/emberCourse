@@ -96,7 +96,7 @@
 			"meetingId": 3,
 			"status": "inProgress",
 			"bookId": 3
-		}
+		},
 		{
 			"id": 4,
 			"speakerId": 1,
