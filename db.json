@@ -75,6 +75,21 @@
 		}
 	],
 
+	"reports": [
+		{
+			"id": 1,
+			"speakerId": 1,
+			"meetingId": 2,
+			"bookId": 2
+		},
+		{
+			"id": 2,
+			"speakerId": 2,
+			"meetingId": 2,
+			"bookId": 1
+		}
+	],
+
 	"orders": [
 		{
 			"id": 1,
@@ -84,25 +99,11 @@
 			"bookId": 1
 		},
 		{
-			"id": 2,
-			"speakerId": 1,
-			"meetingId": 2,
-			"status": "complete",
-			"bookId": 2
-		},
-		{
 			"id": 3,
 			"speakerId": 1,
-			"meetingId": 3,
+			"date": "20/12/20",
 			"status": "inProgress",
 			"bookId": 3
-		},
-		{
-			"id": 4,
-			"speakerId": 1,
-			"meetingId": 3,
-			"status": "complete",
-			"bookId": 2
 		}
 	]
 }
