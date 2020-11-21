@@ -97,5 +97,12 @@
 			"status": "inProgress",
 			"bookId": 3
 		}
+		{
+			"id": 4,
+			"speakerId": 1,
+			"meetingId": 3,
+			"status": "complete",
+			"bookId": 2
+		}
 	]
 }
