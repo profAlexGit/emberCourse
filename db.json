@@ -95,14 +95,22 @@
 			"id": 1,
 			"speakerId": 1,
 			"meetingId": 1,
+			"date": "20/10/20",
 			"status": "validation",
 			"bookId": 1
+		},
+		{
+			"id": 2,
+			"speakerId": 1,
+			"date": "20/12/20",
+			"status": "validation",
+			"bookId": 3
 		},
 		{
 			"id": 3,
 			"speakerId": 1,
 			"date": "20/12/20",
-			"status": "inProgress",
+			"status": "new",
 			"bookId": 3
 		}
 	]
